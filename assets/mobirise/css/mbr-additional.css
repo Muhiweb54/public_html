@@ -1701,7 +1701,7 @@ nav.opened .hamburger span {
 @fullScreen: true;
 @paddingTop: 6;
 @paddingBottom: 6;
-@showArrow: false;
+@showArrow: true;
 @showTitle: true;
 @showSubTitle: false;
 @showText: false;
